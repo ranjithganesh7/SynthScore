@@ -1,0 +1,70 @@
+{
+  "page_alignment_notes": "Both the answer key and the student's answer sheet are well-aligned and clearly scanned. Handwriting is legible.",
+  "total_marks_raw": 4,
+  "structured_results": [
+    {
+      "question_id": "1",
+      "question_type": "MCQ",
+      "transcribed_answer": "c",
+      "is_correct": true,
+      "marks_awarded": 1,
+      "reasoning": "Student's selected option 'c' matches the correct answer in the key.",
+      "flag_for_review": false
+    },
+    {
+      "question_id": "2",
+      "question_type": "MCQ",
+      "transcribed_answer": "a",
+      "is_correct": true,
+      "marks_awarded": 1,
+      "reasoning": "Student's selected option 'a' matches the correct answer in the key.",
+      "flag_for_review": false
+    },
+    {
+      "question_id": "3",
+      "question_type": "MCQ",
+      "transcribed_answer": "b",
+      "is_correct": false,
+      "marks_awarded": 0,
+      "reasoning": "Student's selected option 'b' is incorrect. The correct answer is 'c'.",
+      "flag_for_review": false
+    },
+    {
+      "question_id": "4",
+      "question_type": "MCQ",
+      "transcribed_answer": "a",
+      "is_correct": false,
+      "marks_awarded": 0,
+      "reasoning": "Student's selected option 'a' is incorrect. The correct answer is 'c'.",
+      "flag_for_review": false
+    },
+    {
+      "question_id": "5",
+      "question_type": "MCQ",
+      "transcribed_answer": "c",
+      "is_correct": false,
+      "marks_awarded": 0,
+      "reasoning": "Student's selected option 'c' is incorrect. The correct answer is 'b'.",
+      "flag_for_review": false
+    },
+    {
+      "question_id": "6",
+      "question_type": "MCQ",
+      "transcribed_answer": "a",
+      "is_correct": true,
+      "marks_awarded": 1,
+      "reasoning": "Student's selected option 'a' matches the correct answer in the key.",
+      "flag_for_review": false
+    },
+    {
+      "question_id": "7",
+      "question_type": "Fill-in-the-Blank",
+      "transcribed_answer": "six",
+      "is_correct": true,
+      "marks_awarded": 1,
+      "reasoning": "Student's written answer 'six' matches the correct answer in the key.",
+      "flag_for_review": false
+    }
+  ],
+  "subjective_results": []
+}
