@@ -99,6 +99,10 @@ synthscore/
 - **PDF Generation**: jsPDF
 - **Icons**: Lucide React
 
+
+## WorkFlow
+<img width="1280" height="837" alt="image" src="https://github.com/user-attachments/assets/2d008612-9bff-4f34-831d-739337e9ee25" />
+
 ## Contributing
 
 1. Fork the repository
